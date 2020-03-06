@@ -1,0 +1,65 @@
+.App{
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
+  background-color: #fafafa;
+  min-height: 100vh;
+}
+
+.navbar{
+  padding-top: 0;
+  padding-bottom: 0;
+  min-height: 80px;
+}
+
+.navbar-brand {
+  margin-left: 20px;
+  font-weight: bold;
+  font-size: 30px;
+  color: white !important;
+}
+
+.navbar-brand img{
+  margin-right: 20px;
+}
+
+.language-select{
+  width: 20%;
+  margin-top: 20px;
+  margin-right: 1%;
+  float: right;
+}
+
+.language-label{
+  display: inline-block;
+  float: left;
+  width: 35%;
+  margin-right: 2%;
+  text-align: right;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.language-options{
+  display: inline-block;
+  width: 60%;
+  float: right;
+}
+
+.test{
+  width: 80%;
+  margin-top: 20px;
+  margin-left: 2%;
+  display: block;
+}
+
+.wallpaper{
+  margin-top: 5%;
+}
+
+.wallpaper img{
+  width: 75%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
